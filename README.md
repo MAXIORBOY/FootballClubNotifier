@@ -3,7 +3,7 @@ Before launching the main program you have to configure it by the FCN config.exe
 
 After launching, the program downloads the data from the site: https://www.bbc.com/sport/football
 
-It is recommended to put the Football Club Notifier.exe program into startup.
+It is recommended to put the Football Club Notifier.exe program into startup folder.
 
 Caution: Some anti-virus softwares may classify both programs as malicious software, due to their possiblity to visit websites.
 
