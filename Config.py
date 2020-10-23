@@ -109,7 +109,7 @@ class Config:
         big_frame.pack()
 
         tk.Label(window, text='').pack()
-        tk.Button(window, text='FINISH', bd=4, font=10, command=lambda: [self.save_favourite_club_name(self.club_names[radio_button_var.get()]), window.destroy()]).pack()
+        tk.Button(window, text='FINISH', bd=4, font=10, command=lambda: [self.save_favourite_club_name(self.club_names[radio_button_var.get()]), tk.messagebox.showinfo('Confirmation', f'{self.club_names[radio_button_var.get()]} has been selected.'), window.destroy()]).pack()
         tk.Button(window, text='BACK', bd=4, font=10, command=lambda: [window.destroy(), self.start_config()]).pack()
 
         self.window_position_adjuster(window)
