@@ -8,3 +8,11 @@ It is recommended to put the Football Club Notifier.exe program into startup fol
 Caution: Some anti-virus softwares may classify both programs as malicious software, due to their possiblity to visit websites.
 
 An executable (.exe) version is available in the Release folder
+
+Screenshots (selected club: Chelsea):   
+* After launching a computer:  
+![FCN1](https://user-images.githubusercontent.com/71539614/99203611-5a25fb80-27b3-11eb-85fb-4ea75d08e53f.png)  
+* 1 hour left:    
+![FCN2](https://user-images.githubusercontent.com/71539614/99203618-5db98280-27b3-11eb-979e-7416357b798c.png)
+* The match is about to start:  
+![FCN3](https://user-images.githubusercontent.com/71539614/99203620-5eeaaf80-27b3-11eb-8561-5b3c02fbc944.png)  
