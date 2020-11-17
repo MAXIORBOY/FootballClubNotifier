@@ -22,7 +22,7 @@ Some anti-virus softwares may classify both programs as malicious software, due 
 * ```plyer``` 2.0.0  
 * ```pytz``` 2020.4  
 
-## Screenshots:   
+## Screenshots (Win10):   
 * After launching a computer:  
 ![FCN1](https://user-images.githubusercontent.com/71539614/99203611-5a25fb80-27b3-11eb-85fb-4ea75d08e53f.png)  
 * 1 hour left:    
