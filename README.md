@@ -9,7 +9,7 @@ It is recommended to put the ```Football Club Notifier.exe``` program into the s
 Both programs download the data from the site: https://www.bbc.com/sport/football  
 
 ## Caution:  
-Some anti-virus softwares may classify both programs as malicious software, due to their possiblity to visit websites.
+Some anti-virus softwares may classify both programs as a malicious software, due to their possiblity to visit websites.
 
 ## Launch: 
 * Launch the ```Main.py``` or ```Config.py``` script
