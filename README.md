@@ -1,4 +1,6 @@
-# Football Club Notifier is a program which sends notifications to user provided that on that day takes place a match of the user's favourite club. In total 3 notifications will be sent: in a moment of launching the program, one hour before the match and at the beginning of the match. Notifications apply to league games, Europa League and Champions League. 
+# Football Club Notifier is a program which sends notifications to user provided that on that day takes place a match of the user's favourite club. In total 3 notifications will be sent: in a moment of launching the program, one hour before the match and at the beginning of the match. Notifications apply to league games, Europa League and Champions League.
+
+> :warning: Some anti-virus softwares may classify both programs as a malicious software, due to their possibility to visit websites.
 
 ## Configuration:  
 Before launching the main program you have to configure it by the ```FCN config.exe``` program or the ```Config.py``` script. The configuration is to choose your favourite club. Only the first-league clubs from major european leagues are supported.  
@@ -7,9 +9,6 @@ It is recommended to put the ```Football Club Notifier.exe``` program into the s
 
 ## Source:
 Both programs download the data from the site: https://www.bbc.com/sport/football  
-
-## Caution:  
-Some anti-virus softwares may classify both programs as a malicious software, due to their possibility to visit websites.
 
 ## Launch: 
 * Launch the ```Main.py``` or ```Config.py``` script
